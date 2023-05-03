@@ -1,0 +1,5 @@
+  =>  Template Name    : KOPPEE - Coffee Shop
+
+  =>  Template Link    : https://htmlcodex.com/coffee-shop-html-template
+
+  =>  Template Author  : MR.GENIUS
